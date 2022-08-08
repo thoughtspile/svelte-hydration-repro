@@ -1,4 +1,4 @@
-## Reproduction: svelte-kit clears `<input bind:value>` on hydration
+## Reproduction: svelte clears `<input bind:value>` on hydration
 
 This repository demonstrates input reset on hydration when using svelte-kit
 
