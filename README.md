@@ -1,6 +1,6 @@
 ## Reproduction: svelte-kit clears `<input bind:value>` on hydration
 
-This repository demonstrates 
+This repository demonstrates input reset on hydration when using svelte-kit
 
 1. `npm run build`
 2. `npm run preview -- --open`
