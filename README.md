@@ -11,5 +11,6 @@ This repository demonstrates input reset on hydration when using svelte-kit
 7. Once the HTML has loaded, but before JS in run, type into the input
 8. JS arrives
 
-Expected outcome: user input from step 6 is preserved 
-Actual outcome: input is empty after JS hydrates, causing poor UX on slow network.
+__Expected outcome:__ user input from step 6 is preserved 
+
+__Actual outcome:__ input is empty after JS hydrates, causing poor UX on slow network.
